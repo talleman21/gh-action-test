@@ -1,6 +1,5 @@
 const myFunction = () => {
-  console.log("whoot")
-
+  console.log('whoot')
 }
 
 myFunction()

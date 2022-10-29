@@ -2,6 +2,6 @@ const myFunction = () => {
   console.log('whoot')
 }
 
-//Welp
+// Welp
 
 myFunction()

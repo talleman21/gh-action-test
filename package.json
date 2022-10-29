@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/talleman21/gh-action-test/issues"
   },
-  "homepage": "https://github.com/talleman21/gh-action-test#readme"
+  "homepage": "https://github.com/talleman21/gh-action-test#readme",
+  "dependencies": {
+    "standard": "^17.0.0"
+  }
 }
